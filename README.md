@@ -43,4 +43,4 @@ Credits
 
 * Module written by @chaeplin https://github.com/chaeplin/SUBSIDY_FUNC
 * Module maintained by @dstorm https://bitbucket.org/dstorm/p2pool-drk
-* Module maintained by @vertoe https://github.com/vertoe/dash_subsidy
+* Module maintained by @vertoe https://github.com/vertoe/darkcoin_subsidy
